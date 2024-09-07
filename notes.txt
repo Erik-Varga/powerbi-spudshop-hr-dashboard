@@ -1,0 +1,15 @@
+
+https://app.powerbi.com/groups/me/reports/41bbeadd-1721-4755-be82-45769b641183/ReportSectioned1f63c834043db4031c?experience=power-bi
+
+echo "# powerbi-spudshop-hr-dashboard" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Erik-Varga/powerbi-spudshop-hr-dashboard.git
+git push -u origin main
+
+git add .
+git commit -m "update"
+git push
+
